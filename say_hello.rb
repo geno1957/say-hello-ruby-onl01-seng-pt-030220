@@ -1,3 +1,1 @@
-def say_hello(name="Ruby programmer!")
-  puts "Hello, #{name}. "
-end
+You will build a method called say_hello. This method should accept the argument of a person's name. It then should print "Hello " with the name followed by an exclamation point
