@@ -1,1 +1,3 @@
-def greeting s
+def greeting
+  puts "Hello, Ruby programmer!"
+end
