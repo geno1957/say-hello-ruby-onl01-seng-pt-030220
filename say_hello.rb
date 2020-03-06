@@ -1,2 +1,1 @@
-def greeting say_hello("name")
-  puts 
+def greeting s
